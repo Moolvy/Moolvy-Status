@@ -31,7 +31,7 @@ def main():
         print(f"{Fore.RED}[!] Error: No target provided.{Style.RESET_ALL}")
         return
 
-    extensions = [".com", ".me", ".org", ".net", ".io", ".ru", ".tv", ".app"]
+    extensions = [".com", ".me", ".org", ".net", ".io", ".ru", ".tv", ".app", "store", "info",]
 
     if "." in target:
         to_check = [target]
