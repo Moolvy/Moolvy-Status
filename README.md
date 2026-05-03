@@ -1,4 +1,6 @@
 # Moolvy-Status
+
+Moolvy-Status is a fast and lightweight console tool for instantly checking the availability of domains in various zones.
 ------------
 # Installation
 1. git clone https://github.com/Moolvy/Moolvy-Status.git
