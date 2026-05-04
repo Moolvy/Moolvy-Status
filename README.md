@@ -10,7 +10,7 @@
 
 ------------
 * Automatically scans popular domain extensions (.com, .net, .io, .ru, etc.).​
-   Color-coded [OK] and [OFFLINE] statuses for easy reading.
+*  Color-coded [OK] and [OFFLINE] statuses for easy reading.
 
 -------------
 
