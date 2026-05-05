@@ -8,6 +8,10 @@
 4. bash: python3 mstatus.py domain.
 5.  ![Moolvy Status Demo](assets.png)
 
+
+
+6.  ![Moolvy Status Demo](mstatus.webm)
+
 ------------
 * Automatically scans popular domain extensions (.com, .net, .io, .ru, etc.).​
 *  Color-coded [OK] and [OFFLINE] statuses for easy reading.
