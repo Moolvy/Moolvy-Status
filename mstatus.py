@@ -25,7 +25,7 @@ def main():
     if len(sys.argv) > 1:
         target = sys.argv[1].strip().lower()
     else:
-        target = input("Enter domain or name (e.g. google): ").strip().lower()
+        target = input("Enter domain or name: ").strip().lower()
 
     if not target:
         print(f"{Fore.RED}[!] Error: No target provided.{Style.RESET_ALL}")
